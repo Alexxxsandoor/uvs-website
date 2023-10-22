@@ -2,7 +2,7 @@
     padding-top: 80px;
 }
 #about-us p {
-    font-size: 18px;
+    font-size: 16px;
 }
 
 #about-us-right-content {
@@ -15,7 +15,6 @@
 }
 #about-us-left-img .bg-gradient {
     position: absolute;
-
     z-index: -1;
     top: 0px;
     left: 0px;

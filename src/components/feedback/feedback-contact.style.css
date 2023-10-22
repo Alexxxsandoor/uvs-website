@@ -1,6 +1,6 @@
 #FeedbackContact {
     padding: 40px 0;
-    height: calc(100vh - 110px - 90px);
+    height: calc(100vh - 150px);
 }
 
 .feedback-contact-form-inputs .input-group {
