@@ -9,7 +9,7 @@ const Header = () => {
         <div id="header" className='py-2'>
             <div className="container">
                 <nav className='d-flex justify-content-between align-items-center'>
-                    <img id='header-logo' src={logo} alt="logo"/>
+                    <a href='#first-intro'><img id='header-logo' src={logo} alt="logo"/></a>
                     <ul className='d-flex justify-content-between navbar'>
                         <li><a href='#full-width-index'>Best Sides</a></li>
                         <li><a href='#about-us'>About</a></li>

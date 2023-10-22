@@ -2,3 +2,8 @@
     color: var(--blue-70);
     font-weight: bold;
 }
+
+.WGSN-content i {
+    color: var(--primary);
+    margin-right: 7px;
+}

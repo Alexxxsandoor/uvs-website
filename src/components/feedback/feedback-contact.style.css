@@ -1,7 +1,11 @@
 #FeedbackContact {
     padding: 40px 0;
+    height: calc(100vh - 110px - 90px);
 }
 
 .feedback-contact-form-inputs .input-group {
-    width: 50%;
+    width: 600px;
+}
+#FeedbackContact textarea {
+    min-height: 400px;
 }

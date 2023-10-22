@@ -2,6 +2,7 @@ import React from 'react';
 import './first-intro.style.css'
 import logo from '../../images/logo/logo.4.png'
 
+
 const FirstIntro = () => {
     return (
         <div id='first-intro'>
@@ -12,10 +13,8 @@ const FirstIntro = () => {
                         <p>World Global Solutions Network</p>
                         <p>by Veronika Ulianova</p>
                     </div>
-                    
                 </div>
             </div>
-            
         </div>
     );
 };

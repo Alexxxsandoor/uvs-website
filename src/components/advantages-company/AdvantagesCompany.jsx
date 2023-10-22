@@ -24,7 +24,7 @@ const AdvantagesCompany = () => {
             className='container' 
             id='AdvantagesCompany'
         >
-            <div className='d-flex justify-content-around align-items-center trinity-qualities'>
+            <div className='d-flex flex-wrap justify-content-around align-items-center trinity-qualities'>
                 <motion.div custom={1} variants={textAnimation} className='text-center d-flex flex-column align-items-center'>
                     <div className='circle color1 mb-4'><i><FontAwesomeIcon icon={faArrowUpRightDots} /></i></div>
                     <p><b>Some text</b></p>

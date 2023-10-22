@@ -15,7 +15,7 @@ const FullWidthIndex = () => {
             className='py-4 my-3'
         >
             <div className="container">
-                <div className='d-flex justify-content-between'>
+                <div className='d-flex  justify-content-between'>
                     <LeftText/>
                     <ImageIntro/>
                 </div>
