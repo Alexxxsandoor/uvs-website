@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/uvs-website/static/css/main.834b3abd.css",
+    "main.css": "/uvs-website/static/css/main.3caac864.css",
     "main.js": "/uvs-website/static/js/main.2729d9c8.js",
     "static/media/about-us.png": "/uvs-website/static/media/about-us.5d3e1da102aaf03f2e86.png",
     "static/media/FullWidthIndex.png": "/uvs-website/static/media/FullWidthIndex.5cedfd3c10b7ea933e84.png",
@@ -11,11 +11,11 @@
     "static/media/logo.3.png": "/uvs-website/static/media/logo.3.24a7875354b528d3604c.png",
     "static/media/people4.avif": "/uvs-website/static/media/people4.621fb11e2116bd289b18.avif",
     "index.html": "/uvs-website/index.html",
-    "main.834b3abd.css.map": "/uvs-website/static/css/main.834b3abd.css.map",
+    "main.3caac864.css.map": "/uvs-website/static/css/main.3caac864.css.map",
     "main.2729d9c8.js.map": "/uvs-website/static/js/main.2729d9c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.834b3abd.css",
+    "static/css/main.3caac864.css",
     "static/js/main.2729d9c8.js"
   ]
 }
