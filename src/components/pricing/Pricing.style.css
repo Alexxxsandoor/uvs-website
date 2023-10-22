@@ -1,0 +1,49 @@
+#pricing {
+    background-color: var(--grey-50);
+    height: calc(100vh - 110px);
+}
+.cards {
+    width: 100%;
+}
+.cards .card {
+    max-width: 350px;
+    padding: 30px;
+    background-color: var(--grey-30);
+}
+.cards .card .title {
+    font-size: 20px;
+    color: white;
+}
+.cards .card .price span {
+    font-weight: bold;
+    font-size: 40px;
+    color: blue;
+}
+.cards .card .price {
+    font-size: 24px;
+}
+.cards .card .points i {
+    font-size: 24px;
+    color: var(--blue-70);
+    margin-right: 8px;
+}
+
+.cards .card.primary {
+    background-color: var(--blue-30);
+    color: white;
+}
+.cards .card.primary .price span {
+    color: var(--primary);
+}
+.cards .card.primary .points i {
+    color: var(--primary);
+}
+.cards .card.primary .btn {
+    background-color: var(--primary) !important;
+    border-color: var(--primary) !important;
+}
+.cards .card.primary .btn:hover {
+    background-color: var(--white) !important;
+    border-color: var(--white) !important;
+    color: var(--primary) !important;
+}

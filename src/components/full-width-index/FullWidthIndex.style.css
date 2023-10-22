@@ -1,0 +1,42 @@
+#full-width-index {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+#full-width-index .title {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+#full-width-index-image {
+    position: relative;
+}
+#full-width-index-image img {
+    border-radius: 8px;
+    z-index: 2;
+}
+
+#WGSN-title {
+    font-weight: var(--font-weight-700);
+    font-size: var(--font-size-14);
+    color: var(--blue-90);
+}
+.WGSN-content {
+    font-size: var(--font-size-18);
+    max-width: 90%;
+}
+
+#full-width-index-image-bg {
+    transform: rotate(-5deg);
+    position: absolute;
+    z-index: -1;
+    top: -5px;
+    right: -5px;
+    width: 100%;
+    height: 100%;
+    background: var(--gradient);
+    border-radius: 8px;
+    max-height: 400px;
+}

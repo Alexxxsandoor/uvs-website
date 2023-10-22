@@ -1,0 +1,14 @@
+#footer {
+    background: var(--gradient);
+}
+#footer p {
+    font-weight: var(--font-weight-300);
+    font-size: var(--font-size-20);
+}
+#footer i {
+    color: white;
+    font-size: 35px;
+}
+#footer li {
+    margin-right: 10px;
+}
