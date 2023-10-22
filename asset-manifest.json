@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/uvs-website/static/css/main.59bc4e9e.css",
-    "main.js": "/uvs-website/static/js/main.cb516891.js",
+    "main.css": "/uvs-website/static/css/main.834b3abd.css",
+    "main.js": "/uvs-website/static/js/main.2729d9c8.js",
     "static/media/about-us.png": "/uvs-website/static/media/about-us.5d3e1da102aaf03f2e86.png",
     "static/media/FullWidthIndex.png": "/uvs-website/static/media/FullWidthIndex.5cedfd3c10b7ea933e84.png",
     "static/media/people2.jpg": "/uvs-website/static/media/people2.ac42a5501a2a3afcb8c0.jpg",
@@ -11,11 +11,11 @@
     "static/media/logo.3.png": "/uvs-website/static/media/logo.3.24a7875354b528d3604c.png",
     "static/media/people4.avif": "/uvs-website/static/media/people4.621fb11e2116bd289b18.avif",
     "index.html": "/uvs-website/index.html",
-    "main.59bc4e9e.css.map": "/uvs-website/static/css/main.59bc4e9e.css.map",
-    "main.cb516891.js.map": "/uvs-website/static/js/main.cb516891.js.map"
+    "main.834b3abd.css.map": "/uvs-website/static/css/main.834b3abd.css.map",
+    "main.2729d9c8.js.map": "/uvs-website/static/js/main.2729d9c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.59bc4e9e.css",
-    "static/js/main.cb516891.js"
+    "static/css/main.834b3abd.css",
+    "static/js/main.2729d9c8.js"
   ]
 }
