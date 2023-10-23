@@ -1,6 +1,6 @@
 import React from 'react';
 import './first-intro.style.css'
-import logo from '../../images/logo/logo.4.png'
+import logo from '../../images/logo/logo.7.png'
 
 
 const FirstIntro = () => {

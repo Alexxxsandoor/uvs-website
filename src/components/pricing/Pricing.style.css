@@ -1,6 +1,6 @@
 #pricing {
     background-color: var(--grey-50);
-    height: calc(100vh - 110px);
+    height: calc(100vh - 90px);
 }
 .cards {
     width: 100%;

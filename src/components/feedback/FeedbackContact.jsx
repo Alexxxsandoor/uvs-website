@@ -23,7 +23,7 @@ const FeedbackContact = () => {
             id='FeedbackContact'
         >
             <div className="container">
-                <div className="d-flex flex-column align-items-center justify-content-center feedback-contact-form-inputs">
+                <div className="d-flex  flex-column align-items-center justify-content-center feedback-contact-form-inputs">
                     <motion.h1 custom={1} variants={textAnimation}>Feedback</motion.h1>
                     <motion.p custom={2} variants={textAnimation}>Write to us and we will contact you</motion.p>
                     <motion.div custom={3} variants={textAnimation}>

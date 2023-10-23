@@ -37,12 +37,12 @@ const Pricing = () => {
             className='py-5'
         >
             <div className="container">
-                <div className="d-flex flex-column align-items-center justify-content-center">
+                <div className="d-flex flex-wrap flex-column align-items-center justify-content-center">
                     <div className='text-center text-white pt-4'>
                         <motion.h1 custom={1} variants={textAnimation}>Pricing Pricing Pricing</motion.h1>
                         <motion.p custom={2} variants={textAnimation}>About the price about the price about the price about the price about the price about the price about the price</motion.p>
                     </div>
-                    <div className='cards d-flex align-items-center justify-content-around mt-5'>
+                    <div className='cards flex-wrap d-flex align-items-center justify-content-around mt-5'>
                         <motion.div custom={3} variants={cardAnimation} className='card d-flex flex-column justify-content-between'>
                             <p className='title'>Beginer</p>
                             <p className='price'><span>200$</span>/month</p>
